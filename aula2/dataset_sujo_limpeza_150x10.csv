@@ -1,0 +1,151 @@
+patient_id,full_name,age,weight_kg,height_cm,bmi,systolic_bp,fasting_glucose_mgdl,appointment_date,notes
+P1000,Elisa Carvalho,53.0,79.5,160.0,31.2,124,117.0,2024-04-29,Paciente faltou na última consulta
+P1001,Diego Fernandes,43.0,81.2,162.0,35 kg/m2,142,75.0,2023-12-07,Alergia: penicilina
+P1002,Sofia Souza,55.0,62.8,175.0,20.4,107,120.0,2025-04-12,
+P1003,Tiago Almeida,69.0,79.2,174.0,26.1,134,132.0,2025-09-21,
+P1004,Bruno Silva,41.0,80.3,,28.5,115,108.0,2025-09-12,uso de metformina 500mg
+P1005,Carla Pereira,,62.1,169.0,"32,5",111,145.0,15/08/2024,Alergia: penicilina
+P1005,  HUGO LIMA  ,70.0,108.6,181.0,33.2,one twenty,79.0,2025-04-01, Sono irregular  
+P1007,Vera Silva,57.0,83.5,162.0 cm,31.8,106,67.0,2023-00-10,Paciente faltou na última consulta
+P1008,Sofia Pereira,37.0,53.6,173.0,17.8,115,54.0,2023-12-04,sono irregular
+P1009,Sofia Almeida,54.0,86.8,166.0,31.5,103,,2025-02-15,Alergia: penicilina
+P1010,  HUGO NASCIMENTO  ,38.0,57.5,166.0,20.9,160,,2024-13-05, Segue dieta 1500 kcal  
+P1011,Tiago Costa,38.0,89.2,179.0,27.8,126,97.0,2025-03-10,Sem queixas
+P1012,Ana Gomes,quarenta,95.9,176.0,30.9,112,105.0,2024-06-27,uso de metformina 500mg
+P1013,Felipe Carvalho,14.0,60.2,176.0,19.4,129,70.0,2025-07-20,Refere náusea leve
+P1014,Nuno Rodrigues,17.0,,181.0,28.2,123,159.0,2024-08-07,ingestão hídrica baixa
+P1015,Ivana Oliveira,36.0,82.4,168.0,29.1,121,35.0,2025-05-16,uso de metformina 500mg
+P1016,Gabi Gomes,29.0,5.0,175.0,29.4,136,,2025-09-23,Segue dieta 1500 kcal
+P1017,  KATIA SOUZA  ,50.0,109.1,165.0,40.1,139,116.0,2025-02-30, Sem queixas  
+P1018,Carla Almeida,30.0,70.6,171.0,24.1,115,110.0,2024-01-24,ingestão hídrica baixa
+P1019,  DIEGO RODRIGUES  ,22.0,61.4,167.0,22.1,115,104.0,2024-08-30, Paciente faltou na última consulta  
+P1020,Lucas Araújo,68.0,59.0,169.0,20.7,120,78.0,2024-03-21,
+P1021,Ivana Gomes,quarenta,,174.0,19.9,84,110.0,2023-04-30,Alergia: penicilina
+P1022,Bruno Carvalho,46.0,73.6,160.0,28.8,98,145.0,2026-01-15,Paciente faltou na última consulta
+P1023,Olívia Lima,22.0,81.1,189.0,22.7,150,132.0,2023-05-05,ingestão hídrica baixa
+P1024,Diego Rocha,36.0,80.0,158.0,32.1,155,138.0,2024-10-04,sono irregular
+P1025,Marina Souza,47.0,89.9,156.0,37.0,121,85.0,2023-04-28,Sem queixas
+P1026,  SOFIA COSTA  ,27.0,75.2,180.0,23.3,135,73.0,2023-04-13, Paciente faltou na última consulta  
+P1027,,51.0,101.2,176.0,32.7,131,95.0,2025-09-03, Ingestão hídrica baixa  
+P1027,Lucas Araújo,35.0,70.2,174.0,23.1,180,99.0,2025-10-26,hipertensão? acompanhar
+P1029,Gabi Carvalho,40.0,124.0,174.0,40.8,145,125.0,2023-11-31,uso de metformina 500mg
+P1030,  CARLA SILVA  ,35.0,86.3,168.0,30.6,123,56.0,2023-11-19, Segue dieta 1500 kcal  
+P1031,Hugo Gomes,75.0,59.6,159.0,23.6,108,136.0,2023-04-27,Paciente faltou na última consulta
+P1032,João Souza,??,55.7,169.0,19.6,96,94.0,2024-8-5,Segue dieta 1500 kcal
+P1033,Hugo Martins,28.0,83.7,161.0,32.2,129,cem,2023-06-14,sono irregular
+P1034,Diego Almeida,58.0,71.0,178.0,22.5,120/80,73.0,2024-01-16,sono irregular
+P1035,Ivana Nascimento,25.0,87.9,167.0,31.7,99,57.0,2023-05-21,hipertensão? acompanhar
+P1036,Lucas Oliveira,48.0,83.5,160.0,32.7,113,119.0,2023-05-20,Alergia: penicilina
+P1037,Lucas Rodrigues,,73.7,165.0,27.1,106,,2024-04-26,Paciente faltou na última consulta
+P1038,Gabi Fernandes,24.0,59.8,172.0,20.2,155,66.0,2025-04-06,Sem queixas
+P1039,,48.0,47.7,162.0,18.1,141,66.0,08-15-2024,Alergia: penicilina
+P1040,Carla Araújo,57.0,67.0,160.0,26.2,125,90.0,2024-05-19,ingestão hídrica baixa
+P1041,Felipe Lima,48.0,90.4,170.0,31.1,152,140.0,2026-02-29,
+P1042,Hugo Oliveira,43.0,70kg,,27.1,126,92.0,2024-07-32,Sem queixas
+P1043,Olívia Almeida,40.0,,163.0,19.8,109,60.0,2025-05-08,uso de metformina 500mg
+P1044,Ivana Rocha,21.0,78.1,163.0,29.3,152,92.0,2025-12-06,sono irregular
+P1045,Sofia Pereira,,81.9,170.0,28.2,135,,2024-10-09,uso de metformina 500mg
+P1046,Katia Martins,38.0,59.1,154.0 cm,25.1,106,,2024-06-18,Paciente faltou na última consulta
+P1047,Bruno Pereira,62.0,77.8,154.0,32.8,122,97.0,2024-02-23,Alergia: penicilina
+P1048,Bruno Gomes,50.0,76.0,161.0,29.4,130 mmHg,92.0,2024-10-05,Paciente faltou na última consulta
+P1049,Katia Almeida,17.0,54.4,166.0,19.8,100,115.0,2024-05-03,uso de metformina 500mg
+P1050,  IVANA SOUZA  ,50.0,81.4,171.0,27.8,142,144.0,2024-06-27, Sono irregular  
+P1051,Gabi Rocha,39.0,85.1,,25.5,159,126.0,2035-01-01,Refere náusea leve
+P1052,Tiago Rocha,,94.5,177.0,30.3,260,91.0,2023-09-26,hipertensão? acompanhar
+P1053,Katia Pereira,55.0,94.0,166.0,33.9,135,70.0,2024-09-06,Paciente faltou na última consulta
+P1054,Paulo Almeida,61.0,240.0,168.0,17.8,113,162.0,2025-07-25,Paciente faltou na última consulta
+P1055,Olívia Oliveira,60.0,58.1,158.0,23.3,116,99.0,2024-04-31,Refere náusea leve
+P1056,Ivana Oliveira,32.0,84.3kg,168.0,29.9,114,98.0,2023-05-29,ingestão hídrica baixa
+P1056,Hugo Carvalho,40.0,84.2,165.0,30.9,109,97.0,2023-01-20,ingestão hídrica baixa
+P1058,Sofia Lima,50.0,84.3,171.0,28.7,126,103.0,2025-07-27,uso de metformina 500mg
+P1059,Ivana Carvalho,61.0,144.3,160.0,56.6,110,94.0,2023-07-24,Paciente faltou na última consulta
+P1060,Tiago Almeida,37.0,85.3,173.0,28.4,130,84.0,2023-05-31,sono irregular
+P1061,Tiago Almeida,42.0,95.4,183.0,28.4,124,84.0,2024/08/15,
+P1061,  LUCAS PEREIRA  ,27.0,92.2,167.0,33.1,121,97.0,2024-03-12, Uso de metformina 500mg  
+P1063,Elisa Lima,26.0,86.7,172.0,29.3,109,,2022-12-01,uso de metformina 500mg
+P1064,Paulo Souza,58.0,69.3,175.0,22.7,115,80.0,2024-06-27,hipertensão? acompanhar
+P1065,Bruno Martins,67.0,88.7,164.0,33.0,139,101.0,2024-01-1,Paciente faltou na última consulta
+P1066,Diego Oliveira,44.0,61.1,170.0,21.1,134,,2024-12-15,ingestão hídrica baixa
+P1067,Felipe Gomes,61.0,70.7,168.0,25.0,107,,2023-05-21,ingestão hídrica baixa
+P1068,Nuno Araújo,51.0,66.3,169.0,23.2,127,32.0,2024-05-15,Alergia: penicilina
+P1069,Carla Almeida,35.0,76.5,160.0,29.8,139,"98,0",2025-01-26,atividade física: 3x/semana
+P1069,Marina Araújo,51.0,116.7,168.0,41.2,95,129.0,2024-08-06,atividade física: 3x/semana
+P1071,Olívia Lima,70.0,41.4,173.0,13.8,135,46.0,2023-11-20,atividade física: 3x/semana
+P1072,Ivana Lima,44.0,87.4,183.0,26.2,113,89.0,2025-06-16,hipertensão? acompanhar
+P1073,Ana Fernandes,70.0,46.0,178.0,14.6,135,89.0,2026-01-17,sono irregular
+P1074,Diego Fernandes,12.0,,190.0,18.5,111,63.0,2024-09-11,atividade física: 3x/semana
+P1075,Sofia Gomes,58.0,94.6,160.0,36.8,93,79.0,2025-12-19,Refere náusea leve
+P1076,Ivana Gomes,46.0,76.2,177.0,41 kg/m2,96,70.0,2023-01-17,
+P1077,  KATIA SOUZA  ,40.0,55.6,170.0,19.3,126,142.0,2024-09-05, Uso de metformina 500mg  
+P1078,João Almeida,46.0,62.1,190.0,17.2,130,121.0,2023-08-01,sono irregular
+P1079,  FELIPE NASCIMENTO  ,13.0,87.2,160.0,34.1,109,130.0,2023-10-03, Ingestão hídrica baixa  
+P1080,Ana Carvalho,41.0,61.9,160.0,24.3,136,,2024-06-25,Alergia: penicilina
+P1081,Ivana Lima,51.0,78.9,162.0,30.1,95,70.0,2023-08-25,Sem queixas
+P1082,Felipe Lima,69.0,75.8,,35.2,124,85.0,2023-08-08,hipertensão? acompanhar
+P1083,Diego Martins,37.0,,163.0,23.9,103,110.0,2023-11-15,uso de metformina 500mg
+P1084,João Martins,32.0,113.6,250.0,44.1,113,67.0,2024-07-11,
+P1085,Rafa Araújo,37.0,86.4,170.0,30.1,126,116.0,2024-07-31,hipertensão? acompanhar
+P1086,Gabi Oliveira,60.0,38.5,171.0,13.1,110,cem,2024-03-07,Refere náusea leve
+P1087,Lucas Gomes,50.0,78.4,187.0,22.5,118,89.0,2024-12-03,
+P1088,  FELIPE LIMA  ,37.0,63.1,178.0,20.0,143,116.0,2024-02-21, Segue dieta 1500 kcal  
+P1089,Rafa Rocha,53.0,90.3,162.0,34.3,115,109.0,2024-06-24,hipertensão? acompanhar
+P1090,Ana Araújo,47.0,60.7,159.0,41 kg/m2,140,,2025-11-01,atividade física: 3x/semana
+P1091,Katia Nascimento,60.0,72.9,173.0,24.4,105,127.0,2025-09-27,ingestão hídrica baixa
+P1092,,,84.1,155.0,35.1,135,71.0,2024-05-29,Sem queixas
+P1093,Lucas Rocha,40.0,90.6,186.0,26.1,151,113.0,2023-04-15,atividade física: 3x/semana
+P1094,  JOÃO PEREIRA  ,39.0,53.4,180.0,16.5,81,113.0,2024-09-31, Paciente faltou na última consulta  
+P1095,Bruno Pereira,22.0,69.0,163.0,25.9,111,90.0,2025-05-17,ingestão hídrica baixa
+P1096,  TIAGO SOUZA  ,50.0,66.5,151.0,29.2,135,106.0,2024-07-20, Hipertensão? acompanhar  
+P1097,Carla Carvalho,49.0,63.2,182.0,n/a,121,67.0,2023-04-01,Paciente faltou na última consulta
+P1098,Paulo Martins,45.0,106.8,167.0,38.4,132,121.0,2023-01-08,atividade física: 3x/semana
+P1099,Carla Gomes,??,82.3,180.0,"32,5",114,,2024-11-14,Paciente faltou na última consulta
+P1100,Sofia Gomes,22.0,52.3kg,152.0,22.6,127,85.0,2023-09-25,hipertensão? acompanhar
+P1101,  ELISA OLIVEIRA  ,38.0,91.5,162.0,34.9,122,,2024-06-20, Refere náusea leve  
+P1102,Paulo Lima,40.0,113.2,168.0,40.1,146,80.0,2023-11-27,Segue dieta 1500 kcal
+P1103,Felipe Costa,32.0,,,33.0,,63.0,2025-06-23,Sem queixas
+P1104,Rafa Martins,42.0,47.7,95.0,17.8,131,59.0,2025-05-25,Paciente faltou na última consulta
+P1105,Vera Almeida,51.0,,174.0,21.8,118,113.0,2023-01-20,hipertensão? acompanhar
+P1106,Gabi Rocha,75.0,320.0,157.0,39.5,116,66.0,2023-08-18,Refere náusea leve
+P1107,Sofia Gomes,48.0,62.3,167.0,35 kg/m2,70,142.0,2023-06-04,
+P1108,Gabi Carvalho,49.0,83.0,169.0,29.0,132,46.0,2023-11-02,atividade física: 3x/semana
+P1109,  JOÃO ALMEIDA  ,44.0,88.9,173.0,29.7,117,,2026-01-22, Segue dieta 1500 kcal  
+P1110,,14.0,,175.0,19.0,130,103.0,2023-03-15,sono irregular
+P1111,Rafa Nascimento,45.0,73.9,157.0,30.1,,96.0,2025-01-26,hipertensão? acompanhar
+P1112,Diego Pereira,46.0,16.7,153.0,7.1,141,84.0,2023-10-31,Sem queixas
+P1113,Hugo Souza,84.0,56.6,,17.3,119,108.0,2025-05-30,atividade física: 3x/semana
+P1114,Katia Silva,42.0,70.5,171.0,24.0,147,97.0,2023-09-19,Refere náusea leve
+P1115,Tiago Lima,,52.5,161.0,20.4,118,126.0,2023-03-27,atividade física: 3x/semana
+P1116,Hugo Araújo,44.0,104.4,184.0,31.0,88,101.0,2024-09-23,sono irregular
+P1117,,26.0,49.3,169.0,17.2,107,102.0,2025-01-16,sono irregular
+P1118,Carla Carvalho,63.0,67.1kg,180.0,20.8,91,89.0,2023-03-23,ingestão hídrica baixa
+P1119,Bruno Pereira,57.0,77.4,169.0 cm,27.2,119,480.0,2025-06-00,Alergia: penicilina
+P1120,Carla Rocha,58.0,100.9,189.0,28.4,125,106.0,2024-03-06,atividade física: 3x/semana
+P1121,Bruno Martins,30.0,49.2,186.0,14.3,155,55.0,2024-02-29,ingestão hídrica baixa
+P1122,Katia Souza,,95.9,166.0,n/a,131,64.0,2023-07-30,sono irregular
+P1123,Rafa Pereira,23.0,75.2,178.0,23.8,121,,2024-12-25,Paciente faltou na última consulta
+P1124,Ivana Fernandes,54.0,,174.0 cm,18.8,140,102.0,2025-04-12,sono irregular
+P1125,Paulo Pereira,80.0,83.3,182.0,25.2,85,93.0,2023-11-13,
+P1126,Sofia Oliveira,29.0,78.6,158.0,31.3,129,98.0,2024-04-29,Refere náusea leve
+P1127,Tiago Araújo,36.0,64.2,175.0,21.0,139,107.0,2023-11-29,atividade física: 3x/semana
+P1128,Paulo Pereira,47.0,76.3,179.0,23.9,98,85.0,2023-12-29,atividade física: 3x/semana
+P1129,Paulo Gomes,37.0,68.1,150.0,30.1,146,79.0,2025-04-24,
+P1130,Nuno Pereira,20.0,77.0,156.0,31.6,131,103.0,2023-02-20,hipertensão? acompanhar
+P1131,Diego Souza,46.0,86.9,148.0,39.9,118,74.0,2024-01-03,uso de metformina 500mg
+P1132,Nuno Rodrigues,28.0,103.5,165.0,37.9,136,108.0,2024-11-11,sono irregular
+P1133,Nuno Almeida,53.0,52.7,175.0,17.2,166,55.0,2025-04-23,atividade física: 3x/semana
+P1134,Olívia Martins,30.0,113.4,183.0,33.9,128,124.0,2024-05-23,hipertensão? acompanhar
+P1135,Bruno Fernandes,,39.9,169.0 cm,14.0,129,110.0,2024-06-30,uso de metformina 500mg
+P1136,  DIEGO SILVA  ,32.0,72.3,184.0,21.3,117,,2023-11-23, Atividade física: 3x/semana  
+P1137,Marina Carvalho,40.0,85.6,154.0,36.0,110,123.0,2023-08-10,Sem queixas
+P1138,Katia Gomes,58.0,,210.0,35.1,140,140.0,2025-02-22,uso de metformina 500mg
+P1139,Diego Pereira,25.0,63.8,167.0,22.8,110,123.0,2023-03-21,hipertensão? acompanhar
+P1140,Gabi Pereira,49.0,,172.0,24.1,126,52.0,2025-08-21,uso de metformina 500mg
+P1141,Sofia Nascimento,66.0,66.1,168.0,23.5,116,66.0,2024-03-31,
+P1142,Elisa Almeida,,64.4,147.0,29.7,134,82.0,2024-02-13,Alergia: penicilina
+P1143,Felipe Costa,48.0,90.3,167.0,32.3,131,99.0,2025-07-31,sono irregular
+P1144,  OLÍVIA PEREIRA  ,49.0,81.4,155.0,33.9,144,111.0,not a date, Sem queixas  
+P1145,Carla Nascimento,58.0,62.5,,20.5,116,80.0,2024-09-17,Refere náusea leve
+P1146,Sofia Souza,25.0,91.2,172.0,30.9,120,103.0,2024-04-11,Refere náusea leve
+P1147,  BRUNO FERNANDES  ,24.0,80.5,,n/a,107,79.0,2024-04-01, Hipertensão? acompanhar  
+P1148,  SOFIA MARTINS  ,,89.6kg,163.0,33.8,117,83.0,2023-02-18, Paciente faltou na última consulta  
+P1149,Ana Souza,??,86.3,157.0,"32,5",132,63.0,2024-01-31,Refere náusea leve
